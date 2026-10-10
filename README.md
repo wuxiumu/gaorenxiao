@@ -1,3 +1,8 @@
+# 高人效 · AI 原生组织效能方法论
+
+> 《我理解的高人效》框架：从人力优化到 **智能协同**，面向企业组织效能升级。
+
+**定制：** 微信 **qingbao199101**（备注：高人效）｜ [wuxiumu@163.com](mailto:wuxiumu@163.com)
 
 以下是为《我理解的高人效》设计的书籍框架，融合前沿理论、实践模型与未来洞察，构建兼具思想深度与实操价值的知识体系：
 
@@ -127,3 +132,67 @@
 本书不是对AI的盲目追捧，而是一场关于"技术本质与人性价值"的深度对话——在算法重构世界的时代，组织的终极使命仍是释放人类的创造力。通过构建"AI增强型组织"，我们既能享受技术带来的效能革命，又能坚守"人是目的而非手段"的人文底线。这正是本书试图回答的核心命题：如何让组织在智能时代既高效运转，又充满人性的温度。
 
 （创作建议：每章插入"未来实验室"板块，模拟2030年组织场景；附录增加"AI组织进化路线图"甘特图，提供从现在到2030年的行动指南。）
+
+## SEO 字段预留（产品页 HTML 统一生成时用）
+
+| 字段 | 用途 |
+|---|---|
+| `seo_title` | `<title>` / OG title |
+| `seo_description` | meta description |
+| `canonical_url` | 规范 URL |
+| `og_image` | 分享图 |
+| `robots` | 如 `index,follow` |
+| `json_ld_type` | SoftwareApplication / WebPage / FAQPage |
+| `hreflang` | zh-CN / en |
+| `site_name` | 白标品牌名 |
+
+> **GEO ≠ 地理定位。** GEO = Generative Engine Optimization（生成式引擎优化），见下一节。
+
+## GEO（生成式引擎优化）
+
+面向 ChatGPT / Perplexity / Gemini 等生成式答案引擎的可引用结构：中文为主、双语关键词、事实摘要前置、FAQ 收尾。
+
+### 关键词（中英）
+
+- 中文：高人效, AI原生组织, 组织效能, 智能协同
+- English: AI-native organization, workforce efficiency, org effectiveness
+
+### 事实摘要
+
+- 产品：AI 原生组织效能知识体系与落地咨询素材。
+- 适合：想用 AI 重构决策/协作的团队负责人。
+- 交付：工作坊、落地清单、内部工具对接。
+- 不做：不是空泛鸡汤；可按行业裁剪。
+
+### FAQ
+
+**Q：这是什么？**  
+A：见事实摘要「产品」。
+
+**Q：如何定制？**  
+A：微信 `qingbao199101`，备注项目名。
+
+**Q：是否含密钥？**  
+A：默认不含，自行配置。
+
+## 定制合作
+
+工作坊、内部培训、工具对接。加微信备注「高人效」。
+
+---
+
+## 联系方式
+
+定制、演示或合作：
+
+- 邮箱：[wuxiumu@163.com](mailto:wuxiumu@163.com)
+- 微信：**qingbao199101**（添加请备注来意）
+
+### 赞助支持
+
+如果内容对你有帮助，欢迎自愿赞助。
+
+| 微信赞赏码 | 支付宝收款码 |
+|---|---|
+| ![微信赞赏码](https://chiguashentan-test.oss-cn-beijing.aliyuncs.com/wxprogram/zan/20261002185236_31_227.png) | ![支付宝收款码](https://chiguashentan-test.oss-cn-beijing.aliyuncs.com/wxprogram/zan/20261002185309_32_227.jpg) |
+
